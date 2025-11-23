@@ -782,7 +782,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **G Ekachit Narayan Reddy** - *Initial work* - [YourGitHub](https://github.com/ekachitgvnarayan)
+- **G Ekachit Narayan Reddy** - *Initial work* - [GitHub](https://github.com/ekachitgvnarayan)
 
 ---
 
@@ -795,11 +795,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📞 Support
-
-For support, email support@yourcompany.com or open an issue in the GitHub repository.
-
----
 
 ## 🗺️ Roadmap
 
