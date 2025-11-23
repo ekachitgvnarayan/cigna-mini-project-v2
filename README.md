@@ -782,7 +782,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **Your Name** - *Initial work* - [YourGitHub](https://github.com/yourusername)
+- **G Ekachit Narayan Reddy** - *Initial work* - [YourGitHub](https://github.com/ekachitgvnarayan)
 
 ---
 
@@ -825,10 +825,10 @@ For support, email support@yourcompany.com or open an issue in the GitHub reposi
 
 ## 📈 Project Status
 
-**Version:** 1.0.0  
+**Version:** 2.0.0  
 **Status:** Production Ready  
 **Last Updated:** November 23, 2025
 
 ---
 
-**Made with ❤️ for Healthcare Finance Teams**
+**Made with ❤️ for G Ekachit Nrayan Reddy**
